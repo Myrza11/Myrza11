@@ -5,15 +5,14 @@
 Latest Youtube Videos
 
 ### Languages and Tools
-![Fluttter](https://img.shields.io/badge/-Flutter-008000?style=for-the-badge&logo=appveyor&logocolor=0000FF)
-![Python](https://img.shields.io/badge/-Python-008000?style=for-the-badge&logo=appveyor&logocolor=0000FF)
-![Python](https://img.shields.io/badge/-Python-008000?style=for-the-badge&logo=appveyor&logocolor=0000FF)
-![Python](https://img.shields.io/badge/-Python-008000?style=for-the-badge&logo=appveyor&logocolor=0000FF)
-![Python](https://img.shields.io/badge/-Python-008000?style=for-the-badge&logo=appveyor&logocolor=0000FF)
-![Python](https://img.shields.io/badge/-Python-008000?style=for-the-badge&logo=appveyor&logocolor=0000FF)
-![Python](https://img.shields.io/badge/-Python-008000?style=for-the-badge&logo=appveyor&logocolor=0000FF)
-![Python](https://img.shields.io/badge/-Python-008000?style=for-the-badge&logo=appveyor&logocolor=0000FF)
-
+![Fluttter](https://img.shields.io/badge/-Flutter-00008B?style=for-the-badge&logo=appveyor&logocolor=006400)
+![Python](https://img.shields.io/badge/-Python-00008B?style=for-the-badge&logo=appveyor&logocolor=006400)
+![Python](https://img.shields.io/badge/-Python-00008B?style=for-the-badge&logo=appveyor&logocolor=006400)
+![Python](https://img.shields.io/badge/-Python-00008B?style=for-the-badge&logo=appveyor&logocolor=006400)
+![Python](https://img.shields.io/badge/-Python-00008B?style=for-the-badge&logo=appveyor&logocolor=006400)
+![Python](https://img.shields.io/badge/-Python-00008B?style=for-the-badge&logo=appveyor&logocolor=006400)
+![Python](https://img.shields.io/badge/-Python-00008B?style=for-the-badge&logo=appveyor&logocolor=006400)
+![Python](https://img.shields.io/badge/-Python-00008B?style=for-the-badge&logo=appveyor&logocolor=006400)
 
 
 Follow Me
