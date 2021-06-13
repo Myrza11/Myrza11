@@ -2,8 +2,6 @@
 
 ## I am a ninth grade student, I love playing games and programming
 
-Latest Youtube Videos
-
 ### Languages and Tools
 [![Python](https://img.shields.io/badge/-Python-B8860B?style=for-the-badge&logo=python&logoColor=00008B)](https://ru.wikipedia.org/wiki/Python)
 [![Fluttter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=20B2AA)](https://ru.wikipedia.org/wiki/Flutter)
@@ -17,4 +15,3 @@ Latest Youtube Videos
 
 
 
-Follow Me
