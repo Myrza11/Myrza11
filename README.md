@@ -1,9 +1,9 @@
 ![Header](https://github.com/Myrza11/Myrza11/blob/main/asests/python.jpg)
 
-## I'm a ninth grade student, I like to play games
+## I am a ninth grade student, I love playing games and programming
 
 Latest Youtube Videos
-B8860B
+
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-B8860B?style=for-the-badge&logo=python&logoColor=00008B)
 ![Fluttter](https://img.shields.io/badge/-Flutter-008000?style=for-the-badge&logo=flutter&logoColor=20B2AA)
