@@ -13,5 +13,5 @@
 [![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=4169E1)](https://ru.wikipedia.org/wiki/PHP)
 [![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=0000FF)](https://ru.wikipedia.org/wiki/C%2B%2B)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myrza11)](https://github.com/anuraghazra/github-readme-stats)
 
