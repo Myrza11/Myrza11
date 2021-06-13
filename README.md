@@ -5,14 +5,8 @@
 Latest Youtube Videos
 
 ### Languages and Tools
-![Fluttter](https://img.shields.io/badge/-Flutter-006400?style=for-the-badge&logo=appveyor&logocolor=00008B)
-![Python](https://img.shields.io/badge/-Python-006400?style=for-the-badge&logo=appveyor&logocolor=00008B)
-![Python](https://img.shields.io/badge/-Python-006400?style=for-the-badge&logo=appveyor&logocolor=00008B)
-![Python](https://img.shields.io/badge/-Python-006400?style=for-the-badge&logo=appveyor&logocolor=00008B)
-![Python](https://img.shields.io/badge/-Python-006400?style=for-the-badge&logo=appveyor&logocolor=00008B)
-![Python](https://img.shields.io/badge/-Python-006400?style=for-the-badge&logo=appveyor&logocolor=00008B)
-![Python](https://img.shields.io/badge/-Python-006400?style=for-the-badge&logo=appveyor&logocolor=00008B)
-![Python](https://img.shields.io/badge/-Python-006400?style=for-the-badge&logo=appveyor&logocolor=00008B)
+![Fluttter](https://img.shields.io/badge/-Flatter-008000?style=for-the-badge&logo=flatter)
+
 
 
 Follow Me
