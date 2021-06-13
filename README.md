@@ -1,6 +1,6 @@
 ![Header](https://github.com/Myrza11/Myrza11/blob/main/asests/python.jpg)
 
-About me
+I'm a ninth grade student, I like to play games
 
 Latest Youtube Videos
 
