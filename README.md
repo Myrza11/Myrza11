@@ -1,4 +1,4 @@
-![Header](https://github.com/Myrza11/Myrza11/blob/main/asests/pythonfon3.jpg)
+![Header](https://github.com/Myrza11/Myrza11/blob/main/asests/python.jpg)
 
 ## I am a ninth grade student, I love playing games and programming
 
