@@ -1,7 +1,3 @@
-![Header](https://github.com/Myrza11/Myrza11/blob/main/asests/python.jpg)
-
-## I am a ninth grade student, I love playing games and programming
-
 ### Programming languages
 [![Python](https://img.shields.io/badge/-Python-B8860B?style=for-the-badge&logo=python&logoColor=00008B)](https://ru.wikipedia.org/wiki/Python)
 [![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=FFFFFF)](https://ru.wikipedia.org/wiki/Java)
